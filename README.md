@@ -6,3 +6,5 @@
 * 使用cvemap批量查询对应cve id的信息，并保存为json
 ## cvemap_2_csv
 * 将批量查询cvemap后输出的json转换为csv文件
+## SNMP_BUF_OVFL
+* POC of CVE-2025-68615，使用方法./SNMP_BUF_OVFL.sh 192.168.1.1
